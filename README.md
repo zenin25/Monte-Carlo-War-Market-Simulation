@@ -36,7 +36,7 @@ All three "investors" invest a similar capital over time which is about 2.5 Mill
 
 ### 🔴 Short-Term / Distracted Investor
 
-* 12-year horizon
+* 9-year horizon
 * High yearly investment
 * Limited compounding
 
